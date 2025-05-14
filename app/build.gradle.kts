@@ -65,6 +65,7 @@ dependencies {
     implementation("androidx.compose.ui:ui-graphics:1.5.1")
     implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.6.1")
 
+
     // Room
     implementation("androidx.room:room-runtime:$room_version")
     implementation("androidx.room:room-ktx:$room_version")
